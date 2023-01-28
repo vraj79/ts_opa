@@ -17,19 +17,12 @@
 <h4 align="center">Deployed On:</h4>
 
 <p align="center">
-<a href="">
+<a href="https://evogym-opa.netlify.app/">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 </a>
 </p>
 
 <h3 align="center"><a href=""><strong>Want to see live preview »</strong></a></h3>
 
-It’s solo project where i have used React-TS stack to build the evogym with my creativity.
-It is a Fully Responsive web-application.
-
-## Home Page
-![homePage]()
-
-## Login Page
-![login]()
-
+<p align="center">It’s solo project where i have used React-TS stack to build the evogym with my creativity.</p>
+<p align="center">It is a Fully Responsive web-application.</p>
