@@ -22,7 +22,7 @@
 </a>
 </p>
 
-<h3 align="center"><a href=""><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://evogym-opa.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center">It’s solo project where i have used React-TS stack to build the evogym with my creativity.</p>
 <p align="center">It is a Fully Responsive web-application.</p>
